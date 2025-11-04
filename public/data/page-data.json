@@ -1,0 +1,137 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "sundaripalani253@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:sundaripalani253@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 6374299394",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+916374299394"
+      },
+      {
+        "type": "website",
+        "label": "www.mywebsite.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.mywebsite.com"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "Github",
+        "icon": "/images/icon/icons8-github.svg",
+        "link": "https://github.com/ShanmugaSundari10"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/shanmuga-sundari-palani-00b8bb292/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "APC Mahalaxmi College (MSU) - 2024",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form Koramangala collage."
+      },
+      {
+        "title": "BMC Higher Secondary School - 2021",
+        "description": "Combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+      }
+    ],
+    "skills": [
+      
+      {
+        "name": "HTML",
+        "icon": "/images/home/education-skill/html-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "CSS",
+        "icon": "/images/home/education-skill/css-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "MYSQL",
+        "icon": "/images/home/education-skill/mysql-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Jira",
+        "icon": "/images/home/education-skill/jira-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "Playwright",
+        "icon": "/images/home/education-skill/playwright-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Jmeter",
+        "icon": "/images/home/education-skill/jmeter-icon.svg",
+        "rating": 4
+      }
+    ],
+    "softskills": [
+      
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Canva",
+        "icon": "/images/home/education-skill/canva-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Adobe",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "link": "/"
+      },
+      {
+        "title": "Facebook",
+        "link": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/shanmuga-sundari-palani-00b8bb292/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "sundaripalani253@gmail.com",
+        "link": "mailto:sundaripalani253@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 6374299394",
+        "link": "tel:+916374299394"
+      }
+    ]
+  }
+}
